@@ -1,2 +1,4 @@
-print('Hello New Man')
-print('how are you?')
+
+for i in range (1, 10):
+    print('Hello New Man')
+    print('how are you?')
